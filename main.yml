@@ -1,0 +1,2 @@
+- name: Create Robots.txt
+  uses: s-thom/create-robots-txt-action@v1.1.1
